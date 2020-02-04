@@ -1,0 +1,4 @@
+# serverless.yml
+
+theNextApp:
+  component: serverless-next.js
